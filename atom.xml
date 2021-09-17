@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://https://zhangyejian.github.io/</id>
+    <id>https://zhangyejian.github.io</id>
     <title>Yejian</title>
-    <updated>2021-09-17T03:15:02.630Z</updated>
+    <updated>2021-09-17T03:20:15.980Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://https://zhangyejian.github.io/"/>
-    <link rel="self" href="https://https://zhangyejian.github.io/atom.xml"/>
+    <link rel="alternate" href="https://zhangyejian.github.io"/>
+    <link rel="self" href="https://zhangyejian.github.io/atom.xml"/>
     <subtitle>123</subtitle>
-    <logo>https://https://zhangyejian.github.io/images/avatar.png</logo>
-    <icon>https://https://zhangyejian.github.io/favicon.ico</icon>
+    <logo>https://zhangyejian.github.io/images/avatar.png</logo>
+    <icon>https://zhangyejian.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Yejian</rights>
 </feed>
