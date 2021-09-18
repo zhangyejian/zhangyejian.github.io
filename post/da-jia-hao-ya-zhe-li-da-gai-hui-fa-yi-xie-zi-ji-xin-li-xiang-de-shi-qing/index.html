@@ -85,6 +85,12 @@
       </div>
 
       
+        
+          <div id="gitalk-container"></div>
+        
+
+        
+      
 
       
 
@@ -261,6 +267,28 @@
     initImg();
   </script>
   
+  
+    
+      <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+<script type="application/javascript" src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+
+<script type="application/javascript">
+
+  var gitalk = new Gitalk({
+    clientID: '088ee868cdd6de5b9f46',
+    clientSecret: '88b22f561f66057cecbd70d6c06906f7ed848c6d',
+    repo: 'zhangyejian.github.io',
+    owner: 'zhangyejian',
+    admin: ['zhangyejian'],
+    id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
+    distractionFreeMode: false  // Facebook-like distraction free mode
+  })
+
+  gitalk.render('gitalk-container')
+
+</script>
+
+    
   
 </body>
 
