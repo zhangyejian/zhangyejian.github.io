@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zhangyejian.github.io</id>
     <title>Yejian</title>
-    <updated>2021-09-18T18:24:57.537Z</updated>
+    <updated>2021-09-18T18:34:15.176Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zhangyejian.github.io"/>
     <link rel="self" href="https://zhangyejian.github.io/atom.xml"/>
@@ -12,12 +12,14 @@ So grab your phone, send me a message if you are thinking about me. </subtitle>
     <icon>https://zhangyejian.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Yejian</rights>
     <entry>
-        <title type="html"><![CDATA[33]]></title>
+        <title type="html"><![CDATA[大家好呀，这里大概会发一些自己心里想的事情。]]></title>
         <id>https://zhangyejian.github.io/post/33/</id>
         <link href="https://zhangyejian.github.io/post/33/">
         </link>
-        <updated>2021-09-18T20:00:24.000Z</updated>
-        <content type="html"><![CDATA[<p>333</p>
+        <updated>2021-09-18T23:00:24.000Z</updated>
+        <content type="html"><![CDATA[<p>想说的太多，会慢慢补上吧。<br>
+希望自己能找点方法让自己心静一些。👻</p>
+<p>2021.9.19</p>
 ]]></content>
     </entry>
 </feed>
