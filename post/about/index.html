@@ -109,6 +109,8 @@ Welcome！🤝
       
 
       
+        <div id="vlaine-comment"></div>
+      
 
       <footer class="py-12 text-center px-4 md:px-0" v-pre>
   See u next time.
@@ -290,6 +292,23 @@ Welcome！🤝
     //初始化
     initImg();
   </script>
+  
+    <script type="application/javascript" src="https://unpkg.com/valine"></script>
+<script type="application/javascript">
+  new Valine({
+    el: '#vlaine-comment',
+    appId: 'LTL7gOeWuR6NSdRJc8uGxBmW-MdYXbMMI',
+    appKey: 'pNRLBIUnxJhiYatu7ADYaVa5',
+    pageSize: 10,
+    notify: true,
+    avatar: 'mp',
+    verify: true,
+    placeholder: '讲两句？',
+    visitor: true,
+    highlight: false,
+    recordIP: true,
+  })
+</script>
   
   
 </body>
