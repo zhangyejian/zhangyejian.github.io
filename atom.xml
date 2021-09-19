@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zhangyejian.github.io</id>
-    <title>Yejian</title>
-    <updated>2021-09-18T21:11:32.229Z</updated>
+    <title>Patrick</title>
+    <updated>2021-09-19T16:12:00.248Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zhangyejian.github.io"/>
     <link rel="self" href="https://zhangyejian.github.io/atom.xml"/>
@@ -10,7 +10,20 @@
 So grab your phone, send me a message if you are thinking about me. </subtitle>
     <logo>https://zhangyejian.github.io/images/avatar.png</logo>
     <icon>https://zhangyejian.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Yejian</rights>
+    <rights>All rights reserved 2021, Patrick</rights>
+    <entry>
+        <title type="html"><![CDATA[写在中秋节前]]></title>
+        <id>https://zhangyejian.github.io/post/xie-zai-zhong-qiu-jie-qian/</id>
+        <link href="https://zhangyejian.github.io/post/xie-zai-zhong-qiu-jie-qian/">
+        </link>
+        <updated>2021-09-19T17:05:24.000Z</updated>
+        <content type="html"><![CDATA[<p>感觉人闲下来就会自己内卷自己，总想找点事情做，总觉得自己做得不够好。</p>
+<p>之前在国内的时候周围都是自己的兄弟，感觉是住在舒适区里，也不会自己想太多。<br>
+今天真的是久违的高强度跟好多好多人说了两三个小时的中文，感觉心里舒服了好多。</p>
+<p>之前一直跟自己说，世界很大的世界很大的，却总不知不觉得掉进脑子里的小漩涡里，疯狂的低头拉车了属于是。</p>
+<p>希望最近能放平心态，放松一点 放松一点 放松一点。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大家好呀，这里大概会发一些自己心里想的事情。]]></title>
         <id>https://zhangyejian.github.io/post/da-jia-hao-ya-zhe-li-da-gai-hui-fa-yi-xie-zi-ji-xin-li-xiang-de-shi-qing/</id>
